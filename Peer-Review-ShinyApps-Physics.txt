@@ -1,0 +1,13 @@
+1. Yes, just needs contact info!
+2. Yes, the purpose of the program is to help learners visualize physics concepts with ease
+3. Yes, instructions make sense.
+4. Yes, dependencies are included. Don't forget to add link.
+5. Yes, instructions are included. Just need finish or get rid of blank step 2.
+6. Yes, expected output is described
+7. Yes, references are listed
+8. Yes, program scripts are avaiable
+9. Yes, the app works in R.
+10. Yes, the vignette has a test set.
+11. No errors, easy to run.
+12. No expected output.
+13. 1) Make sure to finish the readme 2) maybe for an example output in the vignette, you could add screenshots of what the graphs should look like for the examples.
